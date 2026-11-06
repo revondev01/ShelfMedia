@@ -9,11 +9,11 @@
 
 > *Twoja osobista kolekcja gier, książek, filmów i seriali. Zapis lokalny, podział rocznikowy i statystyki i generowanie grafik na sociale.*
 >
-> 🌍 *Full English documentation and feature overview is available in the second half of this document.*
+> *Full English documentation and feature overview is available in the second half of this document.*
 
 ---
 
-## ✨ Główne funkcje (PL)
+## Główne funkcje (PL)
 
 ### 1. Biblioteka, Kolumna „Twórca / Twórcy” & Zakładki Roczników
 - **Czysty start z automatycznymi kolorami:** Baza danych (w tym listy typów mediów, platform/formatów i gatunków) jest na starcie całkowicie pusta. Podczas dodawania nowych pozycji, typów mediów lub platform aplikacja automatycznie przypisuje im losowe, estetyczne kolory z możliwością ich pełnej edycji.
@@ -51,7 +51,7 @@
 
 ---
 
-## 💻 Wymagania dla użytkownika (PL)
+## Wymagania dla użytkownika (PL)
 
 ### 1. Wymagania podstawowe (Przeglądarka & Pamięć lokalna)
 - **Przeglądarka internetowa (aktualna wersja):** Google Chrome / Chromium (90+), Microsoft Edge (90+), Mozilla Firefox (90+), Opera, Brave, Vivaldi lub Apple Safari (macOS / iOS 15+).
@@ -70,7 +70,7 @@
 
 ---
 
-## 🚀 Jak uruchomić? (PL)
+## Jak uruchomić? (PL)
 
 ### Opcja A: Wersja Portable (Windows / Localhost — bez instalacji Node.js)
 1. Pobierz paczkę **`ShelfMedia_Localhost.zip`** i wypakuj ją do dowolnego folderu.
@@ -94,7 +94,7 @@ npm run build
 ---
 ---
 
-## 🌍 English Overview — ShelfMedia (v2.8)
+## English Overview — ShelfMedia (v2.8)
 
 **ShelfMedia** is a 100% local, privacy-first media tracker, virtual bookshelf, and collection manager for **games, books, movies, TV series, comics, manga, anime, board games, podcasts, audiobooks**, and any custom media categories.
 
@@ -134,7 +134,7 @@ npm run build
 - **Profile, Main App Icon & UI Theme:** Set your nickname for summaries, customize the main ShelfMedia icon, and pick from 8 curated color themes or custom HEX element colors (with `color-scheme: dark` preventing browser auto-dark-mode from inverting black and white).
 - **Full `.JSON` Backup & `.CSV` Spreadsheets:** 1:1 full system backup in `.json` and accurate `.csv` import/export (including `creator`, hours spent, and exact book page counts).
 
-### 💻 System & User Requirements (EN)
+### System & User Requirements (EN)
 
 #### 1. Browser & Storage Requirements
 - **Modern Web Browser:** Google Chrome / Chromium (90+), Microsoft Edge (90+), Mozilla Firefox (90+), Opera, Brave, Vivaldi, or Apple Safari (macOS / iOS 15+).
@@ -153,5 +153,5 @@ npm run build
 
 ---
 
-## 📄 Licencja / License
+## Licencja / License
 Projekt udostępniany na licencji **Apache-2.0 / MIT**. Zaprojektowano dla graczy, czytelników i kinomanów i nie tylko! / Designed for gamers, readers, movie buffs, and more!
