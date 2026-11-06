@@ -8,3 +8,6 @@ coverage/
 !.env.example
 shelfmedia_db.json
 shelfmedia_db.json.tmp
+.aistudio/
+public/
+
