@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root,
+html,
+body {
+  color-scheme: dark;
+  forced-color-adjust: none;
+}
+
+input[type="color"] {
+  color-scheme: dark;
+  forced-color-adjust: none;
+}
+

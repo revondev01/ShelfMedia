@@ -1,0 +1,6 @@
+{
+  "name": "Media & Game Tracker",
+  "description": "Lokalny tracker gier, książek, filmów i seriali ShelfMedia (Python CustomTkinter + SQLite oraz wersja webowa localhost).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
